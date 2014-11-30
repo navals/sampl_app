@@ -27,5 +27,9 @@ end
 
 group :production do
   gem 'pg', '0.15.1'
+<<<<<<< HEAD
   # gem 'rails_12factor', '0.0.2'
+=======
+  #gem 'rails_12factor', '0.0.2'
+>>>>>>> 21ecd4fc830fec0b91f30e9282732067de31bb36
 end
